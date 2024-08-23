@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # FastAPI backend URL
-API_URL = "http://localhost:8000/predict/"
+API_URL = "https://realfaizanahmed.github.io/AI-Based-Medical-Insurance-Cost-Prediction-Web-App/"
 
 # Streamlit App Title
 st.title("Medical Insurance Cost Prediction App")
