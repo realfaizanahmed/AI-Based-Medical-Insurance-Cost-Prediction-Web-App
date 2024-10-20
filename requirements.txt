@@ -5,3 +5,4 @@ pandas
 scikit-learn
 tensorflow
 streamlit
+tensorflow-intel==2.12.0
