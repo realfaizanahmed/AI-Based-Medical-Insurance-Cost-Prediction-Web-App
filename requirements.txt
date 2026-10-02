@@ -2,5 +2,5 @@ fastapi
 numpy
 pandas
 scikit-learn
-tansorflow
+tensorflow
 streamlit
