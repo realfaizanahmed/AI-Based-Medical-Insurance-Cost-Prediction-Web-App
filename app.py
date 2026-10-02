@@ -68,6 +68,3 @@ if submitted:
 
     except requests.exceptions.RequestException as e:
         st.write(f"Request failed: {e}")
-
-if _name_ == "_main_":
-    app.run(host="0.0.0.0", debug=true)
