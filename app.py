@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # FastAPI backend URL
-API_URL = "https://main--visionary-fenglisu-3d1f27.netlify.app/"
+API_URL = "https://ai-based-medical-insurance-cost-prediction-web-app.faizanaa725.workers.dev/"
 
 # Streamlit App Title
 st.title("Medical Insurance Cost Prediction App")
